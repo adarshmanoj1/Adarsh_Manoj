@@ -28,7 +28,7 @@
 - 📧 **Email:** adarshmanoj1082002@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/adarsh-manoj-014578219](https://linkedin.com/in/adarsh-manoj-014578219)  
 - 🖥️ **GitHub:** [github.com/adarshmanoj1](https://github.com/adarshmanoj1)  
-- 📷 **Instagram:** [instagram.com/_adarsh_manoj_](https://instagram.com/_adarsh_manoj_)  
+- 📷 **Instagram:** [instagram.com/_adarsh_manoj_](https://instagram.com/adar.sh____)  
 
 ---
 
