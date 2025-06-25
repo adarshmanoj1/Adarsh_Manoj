@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Adarsh Manoj</h1>
-<h3 align="center">💻 Full Stack Developer | Computer Science Postgraduate | Backend Focused</h3>
+<h3 align="center">💻 Full Stack Developer | Computer Science Postgraduate</h3>
 
 ---
 
@@ -28,7 +28,7 @@
 - 📧 **Email:** adarshmanoj1082002@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/adarsh-manoj-014578219](https://linkedin.com/in/adarsh-manoj-014578219)  
 - 🖥️ **GitHub:** [github.com/adarshmanoj1](https://github.com/adarshmanoj1)  
-- 📷 **Instagram:** [instagram.com/_adarsh_manoj_](https://instagram.com/adar.sh____)  
+- 📷 **Instagram:** [instagram.com/Adarsh Manoj](https://instagram.com/adar.sh____)  
 
 ---
 
