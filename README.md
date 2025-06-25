@@ -19,7 +19,7 @@
 - **Frontend:** HTML5, CSS3, Bootstrap, React  
 - **Backend:** Django, PHP  
 - **Databases:** MySQL, SQLite  
-- **Tools:** Git, VS Code, Postman, GitHub
+- **Tools:** Git, GitHub
 
 ---
 
