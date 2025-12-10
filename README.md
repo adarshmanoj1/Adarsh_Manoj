@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 🎓 I'm a Postgraduate in Computer Applications (MCA) from Nirmala College, Kerala.  
-💼 Currently working as a Python Full Stack Web Developer Intern at Singularis Software Technologies.  
+💼 Currently working as a Python Full Stack Web Developer Intern at Knovist Technologies Kadavanthra.  
 🚀 Passionate about creating scalable and responsive web applications.  
 🌱 Always learning new technologies and frameworks to improve my development skills.  
 🤝 Open to collaborative projects and contributions in full stack development.
